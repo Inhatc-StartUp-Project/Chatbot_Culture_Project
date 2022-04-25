@@ -1,6 +1,44 @@
 # chatbot_mbti_project
 3-1 StartUp Project 챗봇 mbti 프로젝트
 
-04/25 18:30 wnsgur9137 branche test
+<br>
 
-04/25 18:37 usiohc branche test
+> # **Git 사용법**
+
+<br>
+
+초기 등록
+```
+git config --global user.email "이메일"
+git config --global user.name "이름"
+```
+
+<br>
+
+프로젝트 복제해서 로컬로 다운
+```
+git clone https://github.com/Inhatc-StartUp-Project/chatbot_mbti_project.git
+```
+
+<br>
+
+branch 설정
+```
+git checkout [Branch Name]
+```
+
+<br>
+
+파일 commit
+```
+git add *
+git commit -m "commit name"
+git push origin [Branch Name]
+```
+
+<br>
+
+변경사항 불러오기 (PULL)
+```
+git pull origin [Branch Name] (보통 main)
+```
