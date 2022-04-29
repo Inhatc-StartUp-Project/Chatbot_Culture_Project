@@ -19,7 +19,7 @@ git config --global user.name "이름"
 
 프로젝트 복제해서 로컬로 다운
 ```
-git clone https://github.com/Inhatc-StartUp-Project/chatbot_mbti_project.git
+git clone https://github.com/Inhatc-StartUp-Project/Chatbot_Culture_Project.git
 ```
 
 <br>
