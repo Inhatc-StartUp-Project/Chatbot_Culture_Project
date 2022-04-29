@@ -1,5 +1,5 @@
 # chatbot_mbti_project
-3-1 StartUp Project 챗봇 mbti 프로젝트
+3-1 StartUp Project 공연행사 챗봇 프로젝트
 
 <br>
 <br>
