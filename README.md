@@ -1,4 +1,4 @@
-# chatbot_mbti_project
+# chatbot__project
 3-1 StartUp Project 공연행사 챗봇 프로젝트
 
 <br>
