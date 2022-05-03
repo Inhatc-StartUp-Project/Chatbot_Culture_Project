@@ -1,8 +1,8 @@
-# chatbot__project
+# chatbot_Culture_project
 3-1 StartUp Project 공연행사 챗봇 프로젝트
 
 <br>
-<br>
+<hr>
 <br>
 
 > # **Git 사용법**
